@@ -119,8 +119,5 @@ int main()
 
 	DeleteTree(root);
 
-	//int meow;
-	//cin >> meow;
-
 	return 0;
 }
